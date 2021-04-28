@@ -1,0 +1,15 @@
+.counter_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+}
+.counter_number{
+    margin: 0rem 1rem;
+}
+.counter_btn{
+    background: #61B094;
+    color: white;
+    padding: 1rem;
+    border: none;
+}
